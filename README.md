@@ -1,2 +1,4 @@
 # Algoritmalar
- C#
+Algoritma ile ilgili Örnek Sorular
+
+ 
